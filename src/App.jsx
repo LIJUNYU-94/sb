@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
-import WeatherComponent from "./weatherComponent.jsx";
+import WeatherComponent from "./WeatherComponent.jsx";
 import Gallery from "./Profile.jsx";
 function App() {
   const [x, y] = useState(0);
