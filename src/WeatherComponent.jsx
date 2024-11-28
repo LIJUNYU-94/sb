@@ -89,7 +89,6 @@ const WeatherComponent = () => {
     <>
       <div
         style={{
-          marginTop: "200px",
           width: "60vw",
           marginLeft: "20vw",
           padding: "20px",
